@@ -38,3 +38,4 @@ The data is visualized using matplotlib in the Jupyter Notebooks av_gasused.ipyn
 Conclusion
 This project provides valuable insights into Ethereum transactions and smart contracts. The analyses performed offer a deeper understanding of the data patterns and behavior, allowing for better decision-making and optimization strategies when dealing with large-scale Ethereum data.
 ![image](https://github.com/GitWithNeeraj/Spark-ethereum-analysis/assets/84373485/9781f6ef-e708-4d9b-b170-8bd0cda24f09)
+![image](https://github.com/GitWithNeeraj/Spark-ethereum-analysis/assets/84373485/e2ed981a-a169-45a9-aa27-0e5d12972123)
